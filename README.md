@@ -1,3 +1,3 @@
 # hello-world
 This is a test repository.
-This file contains content different from the file in the main branch.
+This is some random text that I wrote to test how branches and pull requests work.
